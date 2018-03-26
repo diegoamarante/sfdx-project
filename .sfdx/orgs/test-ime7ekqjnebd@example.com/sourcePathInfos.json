@@ -35,13 +35,12 @@
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1522018513565,
-            "changeTime": 1522018513565,
-            "contentHash": "421f10d8e3362e518af96afdcfb9df80ec48e4bb",
+            "modifiedTime": 1522078245323,
+            "changeTime": 1522078245400,
+            "contentHash": "c25e1ae070d39ea87bddbfa14ff0e9d9a9351c20",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -80,13 +79,12 @@
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1522018143758,
-            "changeTime": 1522018143758,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1522078223515,
+            "changeTime": 1522078223613,
+            "contentHash": "b11ac8d15fc1c5106eb8893b11f6f0eb83c8431f",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -227,16 +225,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 5129,
-            "modifiedTime": 1522018513447,
-            "changeTime": 1522018513447,
-            "contentHash": "a9ddd6b4afca6d788d92558e1093c6a5e0042d54",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 5754,
+            "modifiedTime": 1522078518046,
+            "changeTime": 1522078518046,
+            "contentHash": "33b5550a43f683dd89d4a3c6e6222655c5314fc2"
         }
     ],
     [
@@ -1130,13 +1126,246 @@
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1522018410507,
-            "changeTime": 1522018410507,
-            "contentHash": "807c0deb03fca15398dd76daaf32026b8e6e299a",
+            "modifiedTime": 1522025495564,
+            "changeTime": 1522025495564,
+            "contentHash": "bf3bd632254f4d9ad9eea875562aec9c5fe77f6d",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522078245391,
+            "changeTime": 1522078245403,
+            "contentHash": "6d72db187c00b89ee89219925a573f7dfe9def75",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522078223492,
+            "changeTime": 1522078223617,
+            "contentHash": "e921dfbc8abc2748f8ac6b9183320ca51c32546f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522078223567,
+            "changeTime": 1522078223619,
+            "contentHash": "25f6641c4c081843395aeef970435e446c358c0b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\staticresources\\leaflet1.resource",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\staticresources\\leaflet1.resource",
+            "isDirectory": false,
+            "size": 243015,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762203,
+            "contentHash": "ba6267afc8db7c06d52f3c7e575d7be4aa51cb0d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\staticresources\\leaflet1.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\staticresources\\leaflet1.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762204,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\Map.cmp",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\Map.cmp",
+            "isDirectory": false,
+            "size": 586,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762220,
+            "contentHash": "92ff08509c044fa5a9a076062edf04ea71e3d881",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\Map.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\Map.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762223,
+            "contentHash": "5b213949d5e3ecdc91c197b1c2a06910f2227019",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\Map.css",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\Map.css",
+            "isDirectory": false,
+            "size": 44,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762218,
+            "contentHash": "23285dbe6029b9b808d37668a129fe3778b421c8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\Map.design",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\Map.design",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762219,
+            "contentHash": "3e24018912bcd0d6053a0b4188ffd033adb95a6c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\Map.svg",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\Map.svg",
+            "isDirectory": false,
+            "size": 2996,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762221,
+            "contentHash": "c173817b09de251d20f8a88d7aff428ff55d4683",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\MapController.js",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\MapController.js",
+            "isDirectory": false,
+            "size": 377,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762222,
+            "contentHash": "bb03c168d0e29d70a2ebfbe9b92ed4e93a7d47ab",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\MapRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\Map\\MapRenderer.js",
+            "isDirectory": false,
+            "size": 1205,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762223,
+            "contentHash": "1d0c37be87bc3b0549e970851c11ad4eedbc26ad",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard\\MapCard.cmp",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard\\MapCard.cmp",
+            "isDirectory": false,
+            "size": 2172,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762210,
+            "contentHash": "430c67d6629a3e88fabf6bf94ae2cc9cece2f19c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard\\MapCard.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard\\MapCard.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762208,
+            "contentHash": "75041aee2f523c3acab5fe00ac6457c7721c6c64",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard\\MapCard.css",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard\\MapCard.css",
+            "isDirectory": false,
+            "size": 328,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762209,
+            "contentHash": "ef22f0cb2eab93c0559283bd2381556caf1d3b15",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard\\MapCard.design",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard\\MapCard.design",
+            "isDirectory": false,
+            "size": 328,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762212,
+            "contentHash": "c7a70946a18895b52d788e3c86c8ac61e5e1cbf4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard\\MapCard.svg",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard\\MapCard.svg",
+            "isDirectory": false,
+            "size": 1244,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762213,
+            "contentHash": "ce5197311326ab31c329c385e604f369e07225a9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard\\MapCardController.js",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura\\MapCard\\MapCardController.js",
+            "isDirectory": false,
+            "size": 1442,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762214,
+            "contentHash": "90089dbe59738837b24f962a73efe55f22caf00d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

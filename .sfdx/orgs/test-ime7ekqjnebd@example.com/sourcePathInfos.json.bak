@@ -2,14 +2,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018143757,
             "changeTime": 1522018143757,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018143758,
             "changeTime": 1522018143758,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513565,
             "changeTime": 1522018513565,
             "contentHash": "421f10d8e3362e518af96afdcfb9df80ec48e4bb",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\applications",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\applications",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513427,
             "changeTime": 1522018513427,
             "contentHash": "40803d62e4351e2cac52e3f02596215fc5735c61",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +62,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\applications\\Dreamhouse.app-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\applications\\Dreamhouse.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1133,
             "modifiedTime": 1522018513428,
             "changeTime": 1522018513428,
             "contentHash": "012fbaea25074cfba483c75bd51d51021192a19e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +77,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018143758,
             "changeTime": 1522018143758,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +92,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\classes",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513437,
             "changeTime": 1522018513437,
             "contentHash": "93a9fd0d59c9d405e5e6dac34af5651e251d5eb5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +107,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 218,
             "modifiedTime": 1522018513434,
             "changeTime": 1522018513434,
             "contentHash": "d3333b8ab3524c3adec23463294df8b5501a65d2",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +122,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1522018513432,
             "changeTime": 1522018513432,
             "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +137,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 648,
             "modifiedTime": 1522018513438,
             "changeTime": 1522018513438,
             "contentHash": "fd907305b468281de33b50328ae987f7e9c1f2bb",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +152,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1522018513437,
             "changeTime": 1522018513437,
             "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +167,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\contentassets",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\contentassets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513442,
             "changeTime": 1522018513442,
             "contentHash": "a42ad9ab1a440c98cdd899c77ed5b25e97a5ca19",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +182,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 27198,
             "modifiedTime": 1522018513442,
             "changeTime": 1522018513442,
             "contentHash": "b5445ec8b44ac56df72d35b1869849e631240cfc",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +197,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 478,
             "modifiedTime": 1522018513441,
             "changeTime": 1522018513441,
             "contentHash": "e649f91862ea1f7d7db5dd6ef890265b2bef4fc1",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,14 +212,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\flexipages",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513447,
             "changeTime": 1522018513447,
             "contentHash": "acc0f4dec1501866f499d4febcd7a93e2add31d7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -227,14 +227,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5129,
             "modifiedTime": 1522018513447,
             "changeTime": 1522018513447,
             "contentHash": "a9ddd6b4afca6d788d92558e1093c6a5e0042d54",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,14 +242,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\layouts",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513455,
             "changeTime": 1522018513455,
             "contentHash": "90b601961e1d62db7127edd64bc6eb78b8102458",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -257,14 +257,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3357,
             "modifiedTime": 1522018513451,
             "changeTime": 1522018513451,
             "contentHash": "76fbc9f37d18c624a017d420e43d75e457682cc2",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -272,14 +272,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4383,
             "modifiedTime": 1522018513456,
             "changeTime": 1522018513456,
             "contentHash": "398f5ff104edff59c828f372774bbbcacf1727fa",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -287,14 +287,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513501,
             "changeTime": 1522018513501,
             "contentHash": "b18ab1fe7006b1926c6ec1cb2da75d0e9a5d9de3",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -302,14 +302,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513475,
             "changeTime": 1522018513475,
             "contentHash": "1e4d185e9253281dfddfaf9b577325f0187da8b5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -317,14 +317,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2079,
             "modifiedTime": 1522018513468,
             "changeTime": 1522018513468,
             "contentHash": "4ded57b103ff1b6be7232e03afb0e499412ef23a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -332,14 +332,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513469,
             "changeTime": 1522018513469,
             "contentHash": "682fec58be8259a53837e6e2f67f69ef8a60d190",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -347,14 +347,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 347,
             "modifiedTime": 1522018513469,
             "changeTime": 1522018513469,
             "contentHash": "6e5e20522933437a420f98f37bd3cd6114879e48",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -362,14 +362,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513475,
             "changeTime": 1522018513475,
             "contentHash": "2fb46ad3c33bf653b5eb69e67dbce12b7e2f6a0f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -377,14 +377,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 332,
             "modifiedTime": 1522018513470,
             "changeTime": 1522018513470,
             "contentHash": "2cca474a11fe69efa2b2a67d352ae6905c99bfea",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -392,14 +392,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 319,
             "modifiedTime": 1522018513471,
             "changeTime": 1522018513471,
             "contentHash": "312ccfca2f9149ef19f3d3e6ba62d0b8602a0681",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -407,14 +407,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 305,
             "modifiedTime": 1522018513472,
             "changeTime": 1522018513472,
             "contentHash": "2a31a0600201166beb5798a9f209add1724f5747",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -422,14 +422,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 465,
             "modifiedTime": 1522018513473,
             "changeTime": 1522018513473,
             "contentHash": "d679f8280e1412eedc0767a1a91c8ab08a3378c6",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -437,14 +437,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 307,
             "modifiedTime": 1522018513474,
             "changeTime": 1522018513474,
             "contentHash": "7cd3c0cc44339863436c2ea2314a7b1013ae6e2c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -452,14 +452,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 355,
             "modifiedTime": 1522018513475,
             "changeTime": 1522018513475,
             "contentHash": "9fa27aa9d1ad16bbcd462b1d0116e077ec8c2b88",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -467,14 +467,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513476,
             "changeTime": 1522018513476,
             "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -482,14 +482,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 232,
             "modifiedTime": 1522018513476,
             "changeTime": 1522018513476,
             "contentHash": "764dc03192d07c05acef0cf8216fdf436de749a6",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -497,14 +497,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513529,
             "changeTime": 1522018513529,
             "contentHash": "290b3cf58b90838e68e985055e7d1a0d07ec710e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -512,14 +512,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513503,
             "changeTime": 1522018513503,
             "contentHash": "6090013c56ec66c627fbb64f1e135c3d4e595eb8",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -527,14 +527,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 356,
             "modifiedTime": 1522018513503,
             "changeTime": 1522018513503,
             "contentHash": "3e30d624372e00823cfa781b526f80f988359744",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -542,14 +542,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513528,
             "changeTime": 1522018513528,
             "contentHash": "29ceeb8fa30f8ece2d6f465924ff5579d1f80a7c",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -557,14 +557,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 446,
             "modifiedTime": 1522018513505,
             "changeTime": 1522018513505,
             "contentHash": "1a226f009dd63c156d3971f8c3763a7070e754cb",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -572,14 +572,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 463,
             "modifiedTime": 1522018513506,
             "changeTime": 1522018513506,
             "contentHash": "cf5658464be2f9fde5fa17e212379ccc64ab8c62",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -587,14 +587,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 469,
             "modifiedTime": 1522018513507,
             "changeTime": 1522018513507,
             "contentHash": "15da5bc8740561ec4af7c847db5dee799210abf8",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -602,14 +602,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 467,
             "modifiedTime": 1522018513508,
             "changeTime": 1522018513508,
             "contentHash": "42a87a704a89133b81fa0d30c2ee7ce853678818",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -617,14 +617,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 590,
             "modifiedTime": 1522018513509,
             "changeTime": 1522018513509,
             "contentHash": "1adfb82fcd63bd84e97886f1f40eab71dd23da7b",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -632,14 +632,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 439,
             "modifiedTime": 1522018513510,
             "changeTime": 1522018513510,
             "contentHash": "9252e41ea4860528be191fc3940f202e3aa4da71",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -647,14 +647,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 408,
             "modifiedTime": 1522018513511,
             "changeTime": 1522018513511,
             "contentHash": "50fc12cf023ffb086c47e4621b16bf08d4b1b0d6",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -662,14 +662,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 402,
             "modifiedTime": 1522018513511,
             "changeTime": 1522018513511,
             "contentHash": "37cdcf1162540f4cbdc414d9807409d71c4f4ec9",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -677,14 +677,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 410,
             "modifiedTime": 1522018513512,
             "changeTime": 1522018513512,
             "contentHash": "960800835ac37c31f81caea228bf48abf1c46285",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -692,14 +692,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 448,
             "modifiedTime": 1522018513513,
             "changeTime": 1522018513513,
             "contentHash": "6849ac6ed9ff9d161a4081a614bf68034cb69d87",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -707,14 +707,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 410,
             "modifiedTime": 1522018513514,
             "changeTime": 1522018513514,
             "contentHash": "bd592d5febc471d5b70fa14b321aeceb8ebdada9",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -722,14 +722,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 550,
             "modifiedTime": 1522018513515,
             "changeTime": 1522018513515,
             "contentHash": "ce40ee2e334d4751df64c99e0cc6618f50ab87d3",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -737,14 +737,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 439,
             "modifiedTime": 1522018513516,
             "changeTime": 1522018513516,
             "contentHash": "b91a9f6eaeb6624717c5372cb41cb331d577a83d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -752,14 +752,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 483,
             "modifiedTime": 1522018513517,
             "changeTime": 1522018513517,
             "contentHash": "412bfb6e08fb55d374f40c7dc28a7cf2c3aabb46",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -767,14 +767,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 525,
             "modifiedTime": 1522018513518,
             "changeTime": 1522018513518,
             "contentHash": "b5bcd0c404d1ffd4901d0759bf37a300f228fa82",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -782,14 +782,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 393,
             "modifiedTime": 1522018513519,
             "changeTime": 1522018513519,
             "contentHash": "d067b497c7d1660d752e69f88b49ce2c79af5537",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -797,14 +797,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 442,
             "modifiedTime": 1522018513520,
             "changeTime": 1522018513520,
             "contentHash": "55572fea8d72d76790b99420a2252132a601c722",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -812,14 +812,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 553,
             "modifiedTime": 1522018513521,
             "changeTime": 1522018513521,
             "contentHash": "0436083fdeb5938c36af328cbb53ebc447084313",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -827,14 +827,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\RemoveMe__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\RemoveMe__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 447,
             "modifiedTime": 1522018513522,
             "changeTime": 1522018513522,
             "contentHash": "6fa0fc10711ed0799dd611799172c9ee391cfab1",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -842,14 +842,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 441,
             "modifiedTime": 1522018513522,
             "changeTime": 1522018513522,
             "contentHash": "0946570c4ff99b95a14de2fa788428bead211499",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -857,14 +857,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1380,
             "modifiedTime": 1522018513524,
             "changeTime": 1522018513524,
             "contentHash": "47e4c1697d198d7f0af4f9be9e4adbc239848bdf",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -872,14 +872,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 440,
             "modifiedTime": 1522018513525,
             "changeTime": 1522018513525,
             "contentHash": "f16ce261391485bd043c9363860f4b9c5a2334ad",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -887,14 +887,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 543,
             "modifiedTime": 1522018513526,
             "changeTime": 1522018513526,
             "contentHash": "fd1f295a2a894c14f72f59659154dce0f14dbe7a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -902,14 +902,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 397,
             "modifiedTime": 1522018513527,
             "changeTime": 1522018513527,
             "contentHash": "e5bb343d5d3dc341a33563bfef587324ffb541f7",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -917,14 +917,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 442,
             "modifiedTime": 1522018513528,
             "changeTime": 1522018513528,
             "contentHash": "b5160ea3018d0b196a6260135fee211b6700431c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -932,14 +932,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 437,
             "modifiedTime": 1522018513529,
             "changeTime": 1522018513529,
             "contentHash": "cdabe1dd18e0352ec9bc40bf10a762bac1b1f805",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -947,14 +947,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513530,
             "changeTime": 1522018513530,
             "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -962,14 +962,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 326,
             "modifiedTime": 1522018513530,
             "changeTime": 1522018513530,
             "contentHash": "2880d5b0d580ff7b7df8b437c163aad73c093f54",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -977,14 +977,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2186,
             "modifiedTime": 1522018513502,
             "changeTime": 1522018513502,
             "contentHash": "548968aa0431529fa8d35d9a064a29d69ed0122b",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -992,14 +992,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\pages",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\pages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513554,
             "changeTime": 1522018513554,
             "contentHash": "a80c01d29abdebaa3ec23ce2af31ac6e0761811a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1007,14 +1007,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\pages\\DreamHouseSampleData.page",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\pages\\DreamHouseSampleData.page",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 20142,
             "modifiedTime": 1522018513555,
             "changeTime": 1522018513555,
             "contentHash": "f13563d0348bb85774aa87a0dda23d504cfd1ce1",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1022,14 +1022,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\pages\\DreamHouseSampleData.page-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\pages\\DreamHouseSampleData.page-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 296,
             "modifiedTime": 1522018513554,
             "changeTime": 1522018513554,
             "contentHash": "bc5dfb6ad3362ff106cc8b9a4cb469cd9e88babc",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1037,14 +1037,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\permissionsets",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513560,
             "changeTime": 1522018513560,
             "contentHash": "7dbe9e01e595c8fc6b17059b25d1b18351e3d493",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1052,14 +1052,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\permissionsets\\Dreamhouse.permissionset-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\permissionsets\\Dreamhouse.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6538,
             "modifiedTime": 1522018513561,
             "changeTime": 1522018513561,
             "contentHash": "b6e0a05174e1ac89d03f8910cff027b438505262",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1067,14 +1067,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\tabs",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018513570,
             "changeTime": 1522018513570,
             "contentHash": "fda2cac10cefed405d678862a07da7434a22fc58",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1082,14 +1082,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 226,
             "modifiedTime": 1522018513566,
             "changeTime": 1522018513566,
             "contentHash": "24677b40b89c6d3b1bdf2f5e7ebfbc0d1ebfd681",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1097,14 +1097,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 233,
             "modifiedTime": 1522018513568,
             "changeTime": 1522018513568,
             "contentHash": "11977e44e3c2b694b10dcce2bba0764909a199f1",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1112,14 +1112,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\tabs\\Sample_Data_Import.tab-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan\\force-app\\main\\default\\tabs\\Sample_Data_Import.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 254,
             "modifiedTime": 1522018513571,
             "changeTime": 1522018513571,
             "contentHash": "0dc924ea679678792ab06e246c309a33ed62196a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1127,14 +1127,14 @@
     [
         "C:\\Users\\Admin\\Documents\\sfdx-chan",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-chan",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1522018410507,
             "changeTime": 1522018410507,
             "contentHash": "807c0deb03fca15398dd76daaf32026b8e6e299a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
