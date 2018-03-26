@@ -1,0 +1,1350 @@
+[
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370936,
+            "changeTime": 1522079370936,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370936,
+            "changeTime": 1522079370936,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079542972,
+            "changeTime": 1522079543089,
+            "contentHash": "421f10d8e3362e518af96afdcfb9df80ec48e4bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370937,
+            "changeTime": 1522079370937,
+            "contentHash": "40803d62e4351e2cac52e3f02596215fc5735c61",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\applications\\Dreamhouse.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\applications\\Dreamhouse.app-meta.xml",
+            "isDirectory": false,
+            "size": 1133,
+            "modifiedTime": 1522079370938,
+            "changeTime": 1522079370938,
+            "contentHash": "012fbaea25074cfba483c75bd51d51021192a19e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079543039,
+            "changeTime": 1522079543093,
+            "contentHash": "7756f06b50a9310d8356583a86bfb4271dd0158f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079543036,
+            "changeTime": 1522079543036,
+            "contentHash": "1ec2bf99e4020ea3229fad8f0a33b6b31e42097b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp",
+            "isDirectory": false,
+            "size": 1241,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762232,
+            "contentHash": "4eb7792aae82b10cb4fe1b5c0aeb6c5b1e95bec5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762234,
+            "contentHash": "a3a27982aa27c48785eb52fcadd6832f536db822",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.css",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.css",
+            "isDirectory": false,
+            "size": 853,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762230,
+            "contentHash": "dd8b20a2926e8de1c29cc3028ab71670e37cbc0d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselController.js",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselController.js",
+            "isDirectory": false,
+            "size": 517,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762229,
+            "contentHash": "01792be5934e9e4d8c66a64140ff35564cc6bf9a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselHelper.js",
+            "isDirectory": false,
+            "size": 181,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762231,
+            "contentHash": "1c4a18f198a2275b29a9aa497ff37ad2955fc1d9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselRenderer.js",
+            "isDirectory": false,
+            "size": 135,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762233,
+            "contentHash": "7cc8ab34ad310f4dc5ebd9c20ef346d11856fad0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079543077,
+            "changeTime": 1522079543077,
+            "contentHash": "306a277b3f6bfc80e5d2e7d23062e2f00a9c74b8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.cmp",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.cmp",
+            "isDirectory": false,
+            "size": 1338,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762239,
+            "contentHash": "9abf2f5c51483b9688a0b1f88af3f92cd62cc2f5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762241,
+            "contentHash": "a3a27982aa27c48785eb52fcadd6832f536db822",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.css",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.css",
+            "isDirectory": false,
+            "size": 302,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762237,
+            "contentHash": "05dd0f605a10bcbc4b41797bd3723a8040aa2461",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.design",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.design",
+            "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762240,
+            "contentHash": "64a39a0af6c29671af3f39a83fb623436f9333ce",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.svg",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.svg",
+            "isDirectory": false,
+            "size": 1800,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762238,
+            "contentHash": "acc4118104f5a53bb25a6a5a9bbb36b65e2417c7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCardController.js",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCardController.js",
+            "isDirectory": false,
+            "size": 551,
+            "modifiedTime": 1522036844000,
+            "changeTime": 1522011762236,
+            "contentHash": "686b9fbdd992437ce1496b703fdbc62251506602",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370940,
+            "changeTime": 1522079370940,
+            "contentHash": "93a9fd0d59c9d405e5e6dac34af5651e251d5eb5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
+            "isDirectory": false,
+            "size": 218,
+            "modifiedTime": 1522079370938,
+            "changeTime": 1522079370938,
+            "contentHash": "d3333b8ab3524c3adec23463294df8b5501a65d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1522079370939,
+            "changeTime": 1522079370939,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls",
+            "isDirectory": false,
+            "size": 648,
+            "modifiedTime": 1522079370940,
+            "changeTime": 1522079370940,
+            "contentHash": "fd907305b468281de33b50328ae987f7e9c1f2bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1522079370941,
+            "changeTime": 1522079370941,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\contentassets",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370942,
+            "changeTime": 1522079370942,
+            "contentHash": "a42ad9ab1a440c98cdd899c77ed5b25e97a5ca19",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset",
+            "isDirectory": false,
+            "size": 27198,
+            "modifiedTime": 1522079370942,
+            "changeTime": 1522079370942,
+            "contentHash": "b5445ec8b44ac56df72d35b1869849e631240cfc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset-meta.xml",
+            "isDirectory": false,
+            "size": 478,
+            "modifiedTime": 1522079370943,
+            "changeTime": 1522079370943,
+            "contentHash": "e649f91862ea1f7d7db5dd6ef890265b2bef4fc1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370944,
+            "changeTime": 1522079370944,
+            "contentHash": "acc0f4dec1501866f499d4febcd7a93e2add31d7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5411,
+            "modifiedTime": 1522079915702,
+            "changeTime": 1522079915702,
+            "contentHash": "85c2a41246dda0fe7f7e463b768c74695d2062dc"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370945,
+            "changeTime": 1522079370945,
+            "contentHash": "90b601961e1d62db7127edd64bc6eb78b8102458",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3357,
+            "modifiedTime": 1522079370945,
+            "changeTime": 1522079370945,
+            "contentHash": "76fbc9f37d18c624a017d420e43d75e457682cc2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 4383,
+            "modifiedTime": 1522079370946,
+            "changeTime": 1522079370946,
+            "contentHash": "398f5ff104edff59c828f372774bbbcacf1727fa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370954,
+            "changeTime": 1522079370954,
+            "contentHash": "b18ab1fe7006b1926c6ec1cb2da75d0e9a5d9de3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370953,
+            "changeTime": 1522079370953,
+            "contentHash": "1e4d185e9253281dfddfaf9b577325f0187da8b5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2079,
+            "modifiedTime": 1522079370947,
+            "changeTime": 1522079370947,
+            "contentHash": "4ded57b103ff1b6be7232e03afb0e499412ef23a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370948,
+            "changeTime": 1522079370948,
+            "contentHash": "682fec58be8259a53837e6e2f67f69ef8a60d190",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 347,
+            "modifiedTime": 1522079370948,
+            "changeTime": 1522079370948,
+            "contentHash": "6e5e20522933437a420f98f37bd3cd6114879e48",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370952,
+            "changeTime": 1522079370952,
+            "contentHash": "2fb46ad3c33bf653b5eb69e67dbce12b7e2f6a0f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1522079370949,
+            "changeTime": 1522079370949,
+            "contentHash": "2cca474a11fe69efa2b2a67d352ae6905c99bfea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 319,
+            "modifiedTime": 1522079370950,
+            "changeTime": 1522079370950,
+            "contentHash": "312ccfca2f9149ef19f3d3e6ba62d0b8602a0681",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 305,
+            "modifiedTime": 1522079370951,
+            "changeTime": 1522079370951,
+            "contentHash": "2a31a0600201166beb5798a9f209add1724f5747",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 465,
+            "modifiedTime": 1522079370951,
+            "changeTime": 1522079370951,
+            "contentHash": "d679f8280e1412eedc0767a1a91c8ab08a3378c6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 307,
+            "modifiedTime": 1522079370952,
+            "changeTime": 1522079370952,
+            "contentHash": "7cd3c0cc44339863436c2ea2314a7b1013ae6e2c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 355,
+            "modifiedTime": 1522079370953,
+            "changeTime": 1522079370953,
+            "contentHash": "9fa27aa9d1ad16bbcd462b1d0116e077ec8c2b88",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370954,
+            "changeTime": 1522079370954,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1522079370954,
+            "changeTime": 1522079370954,
+            "contentHash": "764dc03192d07c05acef0cf8216fdf436de749a6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370991,
+            "changeTime": 1522079370991,
+            "contentHash": "290b3cf58b90838e68e985055e7d1a0d07ec710e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370956,
+            "changeTime": 1522079370956,
+            "contentHash": "6090013c56ec66c627fbb64f1e135c3d4e595eb8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1522079370956,
+            "changeTime": 1522079370956,
+            "contentHash": "3e30d624372e00823cfa781b526f80f988359744",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370991,
+            "changeTime": 1522079370991,
+            "contentHash": "29ceeb8fa30f8ece2d6f465924ff5579d1f80a7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 446,
+            "modifiedTime": 1522079370957,
+            "changeTime": 1522079370957,
+            "contentHash": "1a226f009dd63c156d3971f8c3763a7070e754cb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 463,
+            "modifiedTime": 1522079370958,
+            "changeTime": 1522079370958,
+            "contentHash": "cf5658464be2f9fde5fa17e212379ccc64ab8c62",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 469,
+            "modifiedTime": 1522079370959,
+            "changeTime": 1522079370959,
+            "contentHash": "15da5bc8740561ec4af7c847db5dee799210abf8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 467,
+            "modifiedTime": 1522079370959,
+            "changeTime": 1522079370959,
+            "contentHash": "42a87a704a89133b81fa0d30c2ee7ce853678818",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 590,
+            "modifiedTime": 1522079370976,
+            "changeTime": 1522079370976,
+            "contentHash": "1adfb82fcd63bd84e97886f1f40eab71dd23da7b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1522079370977,
+            "changeTime": 1522079370977,
+            "contentHash": "9252e41ea4860528be191fc3940f202e3aa4da71",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 408,
+            "modifiedTime": 1522079370978,
+            "changeTime": 1522079370978,
+            "contentHash": "50fc12cf023ffb086c47e4621b16bf08d4b1b0d6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1522079370979,
+            "changeTime": 1522079370979,
+            "contentHash": "37cdcf1162540f4cbdc414d9807409d71c4f4ec9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 410,
+            "modifiedTime": 1522079370979,
+            "changeTime": 1522079370979,
+            "contentHash": "960800835ac37c31f81caea228bf48abf1c46285",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 448,
+            "modifiedTime": 1522079370980,
+            "changeTime": 1522079370980,
+            "contentHash": "6849ac6ed9ff9d161a4081a614bf68034cb69d87",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 410,
+            "modifiedTime": 1522079370981,
+            "changeTime": 1522079370981,
+            "contentHash": "bd592d5febc471d5b70fa14b321aeceb8ebdada9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 550,
+            "modifiedTime": 1522079370981,
+            "changeTime": 1522079370981,
+            "contentHash": "ce40ee2e334d4751df64c99e0cc6618f50ab87d3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1522079370982,
+            "changeTime": 1522079370982,
+            "contentHash": "b91a9f6eaeb6624717c5372cb41cb331d577a83d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 483,
+            "modifiedTime": 1522079370983,
+            "changeTime": 1522079370983,
+            "contentHash": "412bfb6e08fb55d374f40c7dc28a7cf2c3aabb46",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 525,
+            "modifiedTime": 1522079370983,
+            "changeTime": 1522079370983,
+            "contentHash": "b5bcd0c404d1ffd4901d0759bf37a300f228fa82",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 393,
+            "modifiedTime": 1522079370984,
+            "changeTime": 1522079370984,
+            "contentHash": "d067b497c7d1660d752e69f88b49ce2c79af5537",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1522079370985,
+            "changeTime": 1522079370985,
+            "contentHash": "55572fea8d72d76790b99420a2252132a601c722",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 553,
+            "modifiedTime": 1522079370986,
+            "changeTime": 1522079370986,
+            "contentHash": "0436083fdeb5938c36af328cbb53ebc447084313",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\RemoveMe__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\RemoveMe__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1522079370986,
+            "changeTime": 1522079370986,
+            "contentHash": "6fa0fc10711ed0799dd611799172c9ee391cfab1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1522079370987,
+            "changeTime": 1522079370987,
+            "contentHash": "0946570c4ff99b95a14de2fa788428bead211499",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1380,
+            "modifiedTime": 1522079370988,
+            "changeTime": 1522079370988,
+            "contentHash": "47e4c1697d198d7f0af4f9be9e4adbc239848bdf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 440,
+            "modifiedTime": 1522079370988,
+            "changeTime": 1522079370988,
+            "contentHash": "f16ce261391485bd043c9363860f4b9c5a2334ad",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 543,
+            "modifiedTime": 1522079370989,
+            "changeTime": 1522079370989,
+            "contentHash": "fd1f295a2a894c14f72f59659154dce0f14dbe7a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1522079370990,
+            "changeTime": 1522079370990,
+            "contentHash": "e5bb343d5d3dc341a33563bfef587324ffb541f7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1522079370991,
+            "changeTime": 1522079370991,
+            "contentHash": "b5160ea3018d0b196a6260135fee211b6700431c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 437,
+            "modifiedTime": 1522079370991,
+            "changeTime": 1522079370991,
+            "contentHash": "cdabe1dd18e0352ec9bc40bf10a762bac1b1f805",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370992,
+            "changeTime": 1522079370992,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1522079370992,
+            "changeTime": 1522079370992,
+            "contentHash": "2880d5b0d580ff7b7df8b437c163aad73c093f54",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2186,
+            "modifiedTime": 1522079370955,
+            "changeTime": 1522079370955,
+            "contentHash": "548968aa0431529fa8d35d9a064a29d69ed0122b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370994,
+            "changeTime": 1522079370994,
+            "contentHash": "a80c01d29abdebaa3ec23ce2af31ac6e0761811a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\pages\\DreamHouseSampleData.page",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\pages\\DreamHouseSampleData.page",
+            "isDirectory": false,
+            "size": 20142,
+            "modifiedTime": 1522079370994,
+            "changeTime": 1522079370994,
+            "contentHash": "f13563d0348bb85774aa87a0dda23d504cfd1ce1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\pages\\DreamHouseSampleData.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\pages\\DreamHouseSampleData.page-meta.xml",
+            "isDirectory": false,
+            "size": 296,
+            "modifiedTime": 1522079370994,
+            "changeTime": 1522079370994,
+            "contentHash": "bc5dfb6ad3362ff106cc8b9a4cb469cd9e88babc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370995,
+            "changeTime": 1522079370995,
+            "contentHash": "7dbe9e01e595c8fc6b17059b25d1b18351e3d493",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\permissionsets\\Dreamhouse.permissionset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\permissionsets\\Dreamhouse.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 6538,
+            "modifiedTime": 1522079370995,
+            "changeTime": 1522079370995,
+            "contentHash": "b6e0a05174e1ac89d03f8910cff027b438505262",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370997,
+            "changeTime": 1522079370997,
+            "contentHash": "fda2cac10cefed405d678862a07da7434a22fc58",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 226,
+            "modifiedTime": 1522079370996,
+            "changeTime": 1522079370996,
+            "contentHash": "24677b40b89c6d3b1bdf2f5e7ebfbc0d1ebfd681",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1522079370996,
+            "changeTime": 1522079370996,
+            "contentHash": "11977e44e3c2b694b10dcce2bba0764909a199f1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\tabs\\Sample_Data_Import.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria\\force-app\\main\\default\\tabs\\Sample_Data_Import.tab-meta.xml",
+            "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1522079370997,
+            "changeTime": 1522079370997,
+            "contentHash": "0dc924ea679678792ab06e246c309a33ed62196a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx-maria",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx-maria",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522079370997,
+            "changeTime": 1522079415788,
+            "contentHash": "bf3bd632254f4d9ad9eea875562aec9c5fe77f6d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
