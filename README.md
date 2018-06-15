@@ -12,5 +12,3 @@
 ## Issues
 
 
-=======
-# sfdx-project
