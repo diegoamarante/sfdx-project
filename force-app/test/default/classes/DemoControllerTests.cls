@@ -7,6 +7,8 @@ private class DemoControllerTests {
 
         System.debug('tttt');
 
+        System.assertEquals(true, false);
+
     	Test.setCurrentPage(Page.DemoPage);   	
     	ApexPages.currentPage().getParameters().put('lastName', 'Smith');
 
