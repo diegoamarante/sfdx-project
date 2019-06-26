@@ -5,6 +5,8 @@ private class DemoControllerTests {
     	Contact contact = new Contact(LastName='Smith');
     	insert contact;
 
+        System.debug('tttt');
+
     	Test.setCurrentPage(Page.DemoPage);   	
     	ApexPages.currentPage().getParameters().put('lastName', 'Smith');
 
