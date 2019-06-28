@@ -6,6 +6,7 @@ private class DemoControllerTests {
     	//insert contact;
 
         System.debug('tttt');
+        
 
         System.assertEquals(true, false);
 
