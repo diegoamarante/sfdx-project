@@ -3,9 +3,10 @@
 private class DemoControllerTests {
     @isTest static void testConstructor() {
     	Contact contact = new Contact(LastName='Smith');
-    	insert contact;
+    	//insert contact;
 
         System.debug('tttt');
+        
 
         System.assertEquals(true, false);
 
@@ -20,4 +21,6 @@ private class DemoControllerTests {
         DemoController demo = new DemoController();
         System.assertEquals(demo.getAppVersion(), '1.0.0');
     }
+
+    
 }

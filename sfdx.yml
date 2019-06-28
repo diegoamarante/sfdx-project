@@ -3,7 +3,7 @@ assign-permset: false
 permset-name:
 run-apex-tests: true
 apex-test-format: tap
-show-scratch-org-url: false
-open-path: 
+show-scratch-org-url: true
+open-path: /home
 import-data: false
 data-plans:

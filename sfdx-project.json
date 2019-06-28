@@ -10,7 +10,7 @@
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "42.0",
+    "sourceApiVersion": "45.0",
     "packageAliases": {
         "mypipelinedemo": "0Ho4P000000KylvSAC"
     }
