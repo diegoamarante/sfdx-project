@@ -3,6 +3,10 @@ dist: trusty
 cache: false
 env:
 - URL=https://developer.salesforce.com/media/salesforce-cli/sfdx-linux-amd64.tar.xz
+
+addons:
+  chrome: stable
+  
 before_install:
 - openssl aes-256-cbc -K $encrypted_4a2c99c0f3b6_key -iv $encrypted_4a2c99c0f3b6_iv
   -in assets/server.key.enc -out assets/server.key -d
