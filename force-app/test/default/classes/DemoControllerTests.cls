@@ -9,7 +9,7 @@ private class DemoControllerTests {
     	ApexPages.currentPage().getParameters().put('lastName', 'Smith');
 
     	DemoController demo = new DemoController(new ApexPages.StandardController(contact));
-    	System.assertEquals(contact.Id, ApexPages.currentPage().getParameters().get('id'));
+    	System.assertEquals(contact.Id, ApexPages.currentPage().getParameters().get('sid'));
     }
 
     @isTest static void testGetAppVersion() {
